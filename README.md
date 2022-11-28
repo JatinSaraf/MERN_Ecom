@@ -1,3 +1,5 @@
+E-Commerce Website for MERN Lab
+
 Contributors of the project:
 <ol>
 Jatin Saraf - 16010120188
